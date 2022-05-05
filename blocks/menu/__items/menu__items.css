@@ -1,0 +1,9 @@
+.menu__items {
+  display: flex;
+  flex-direction: row;
+  column-gap: 105px;
+  list-style-type: none;
+  padding: 0;
+  vertical-align: middle;
+  margin: 0;
+  }

@@ -1,0 +1,11 @@
+@font-face {
+  src: url(../../fonts/DM_Sans/DMSans-Regular.ttf);
+  font-family: 'DM Sans';
+}
+
+.page {
+    min-width: 1100px;
+    max-width: 1600px;
+    margin: 0 auto;
+    font-family: 'DM Sans', 'Helvetica Neue', Arial, sans-serif;
+  }
